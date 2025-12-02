@@ -1,0 +1,176 @@
+* {
+    text-align: center;
+}
+#add{margin:auto;
+    
+}
+
+body {
+    background-color: #4c4c4c;
+}
+
+
+th {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border: black solid 1px;
+    border-radius: 0.2em;
+}
+
+#a {
+    background: linear-gradient(red, rgb(255, 70, 70))
+}
+
+#b {
+    background-color: blue;
+}
+
+#c {
+    background-color: yellow;
+}
+
+#d {
+    background-color: green;
+}
+
+#e {
+    transition: 10s;
+    background: linear-gradient(100deg, yellowgreen, green);
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+div {
+    border: black 1px solid;
+    position: relative;
+    display: inline-block;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 1.2em;
+}
+
+.a1 {
+    bottom: 360px;
+    left: 120px;
+
+}
+
+.a2 {
+    
+    bottom: 360px;
+    left: 150px;
+    
+}
+
+.a3 {
+   
+    bottom: 290px;
+    left: 50px;
+}
+
+.a4 {
+
+    bottom: 290px;
+    left: 80px;
+}
+
+.b1 {
+    bottom: 360px;
+    left: 200px;
+}
+
+.b2 {
+    
+    bottom: 360px;
+    left: 240px;
+
+}
+
+.b3 {
+   
+    bottom: 290px;
+    left: 130px;
+
+}
+
+.b4 {
+   
+    bottom: 290px;
+    left: 170px;
+}
+
+.c1 {
+    
+    bottom: 130px;
+    right: 160px;
+
+}
+
+.c2 {
+   
+    bottom: 130px;
+    right: 130px;
+}
+
+.c3 {
+  
+    bottom: 60px;
+    right: 170px;
+}
+
+.c4 {
+    
+    bottom: 60px;
+    right: 265px;
+}
+
+.d1 {
+   
+    bottom: 130px;
+    right: 80px;
+ 
+}
+
+.d2 {
+    
+    bottom: 130px;
+    right: 50px;
+}
+
+.d3 {
+   
+    bottom: 60px;
+    right: 150px;
+}
+
+.d4 {
+    
+    bottom: 60px;
+    left: -120px;
+}
+.gray{background-color: #bfbdbd; color: white;}
+
+img {
+    display: inline-block;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    bottom: 57%;
+    right: 45%;
+}
